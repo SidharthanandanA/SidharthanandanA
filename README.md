@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GeoStem<br>🌱 I’m currently learning about ABP Framework, Angular & Advanced SQL
+🔭 Hello I'm Sidhu, A Junior Business Ananlyst at SpeeHive <br>🌱 I’m currently learning about ABP Framework, Angular & Advanced SQL
 
 
 ## 🌐 Socials:
